@@ -1,7 +1,7 @@
 ### Hi there,
 My name is Alberto and I'm a videogame developer student in Universidad Rey Juan Carlos, located in Madrid, Spain. 
 
-
+[![Alt text](https://vignette.wikia.nocookie.net/english-otome-games/images/b/bd/Itchio.png/revision/latest/scale-to-width-down/2000?cb=20200629213038)](https://alpuerro.itch.io/)
 <!--
 **Alpuerro/Alpuerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
