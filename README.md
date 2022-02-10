@@ -1,7 +1,9 @@
 ### Hi there,
 My name is Alberto and I'm a videogame developer student in Universidad Rey Juan Carlos, located in Madrid, Spain. 
 
-[![Alt text](https://lh3.googleusercontent.com/sjYxtONJQmOdVbBZ4ZodLwkhazurFIXypRzArr_tWJ3MI81MgF1PUtgqrL3FmQu1a4emmDb9-TyqyhT1tvF9x2ihdz-OWrHjXHG4UqpM1upKXNpxuAFKu3kHg4okECXJyR2NhdAE)](https://alpuerro.itch.io/)
+
+
+<img src="https://static.itch.io/images/logo-white-new.svg" alt="drawing" width="200" href="https://alpuerro.itch.io/"/>
 <!--
 **Alpuerro/Alpuerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
